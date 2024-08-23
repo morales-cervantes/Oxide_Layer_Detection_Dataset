@@ -4,6 +4,10 @@ Antony Morales-Cervantes [![ORCID](https://img.shields.io/badge/ORCID-0000--0003
 
 This repository contains the dataset used in the study titled "Real-Time Detection and Monitoring of Oxide Layer Formation in 1045 Steel Using Infrared Thermography and Advanced Image Processing Algorithms." The research focuses on real-time monitoring of oxide layer formation in AISI 1045 steel using infrared thermography.
 
+## Data availability statement
+The thermographic dataset used for monitoring oxide layer formation in 1045 steel is available via [OneDrive](https://1drv.ms/f/s!Ap8bec7rYt6ijOplQ5MLm-zfeX8hXg?e=fhVQMh). 
+
+
 ## Contents
 
 - **Dataset**: The thermographic data captured during the heating of 1045 steel specimens, including annotated images used for analysis. The data is organized into folders corresponding to different experimental conditions.
